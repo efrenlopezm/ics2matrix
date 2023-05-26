@@ -7,7 +7,7 @@
 </div>
 <br />
 
-This repository hosts the research artifacts released with the paper **SoK: Security of Programmable Logic Controllers**. It mainly hosts the ICS<sup>2</sup> Matrix however it also include other information relevant to the securty community like the list of PLC Security Research Artifacts.
+This repository hosts the research artifacts released with the paper **SoK: Security of Programmable Logic Controllers**. It mainly hosts the ICS<sup>2</sup> Matrix however it also includes other information relevant to the securty community like the list of PLC Security Research Artifacts.
 
 ## Research Paper
 
@@ -62,7 +62,7 @@ code blocks for commands
 | 1  | [D-Box](https://github.com/RiS3-Lab/D-Box)                          | Countermeasure | D-Box: DMA-enabled Compartmentalization for Embedded Applications                                                            | 2022 |
 | 2  | PLCrypto                       | Countermeasure | PLCrypto: A Symmetric Cryptographic Library for Programmable Logic Controllers                                               | 2021 |
 | 3  | ORRIS                          | Countermeasure | Remote Non-Intrusive Malware Detection for PLCs based on Chain of Trust Rooted in Hardware                                   | 2021 |
-| 4  | vBump                          | Countermeasure | ICSvBump: Securing Ethernet-based Industrial Control System Networks with VLAN-based Traffic Aggregation                     | 2021 |
+| 4  | vBump                          | Countermeasure | vBump: Securing Ethernet-based Industrial Control System Networks with VLAN-based Traffic Aggregation                     | 2021 |
 | 5  | AttkFinder                     | Attack         | AttkFinder: Discovering Attack Vectors in PLC Programs using Information Flow Analysis                                       | 2021 |
 | 6  | DigitalTwin-SIEM-integration   | Countermeasure | Integrating digital twin security simulations in the security operations center                                              | 2020 |
 | 7  | ICS Fingerprinting             | Countermeasure | I came, I saw, I hacked: Automated Generation of Process-independent Attacks for Industrial Control Systems                  | 2020 |
