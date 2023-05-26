@@ -37,6 +37,24 @@ An in-depth paragraph about your project and overview of use.
 code blocks for commands
 ```
 
+## PLC Security Research Artifacts
+
+| #  | Artifact Name                  | Method         | Paper                                                                                      | Year |
+|----|--------------------------------|----------------|--------------------------------------------------------------------------------------------|------|
+| 1  | D-Box                          | Countermeasure | D-Box: DMA-enabled Compartmentalization for Embedded Applications                          | 2022 |
+| 2  | PLCrypto                       | Countermeasure | PLCrypto: A Symmetric Cryptographic Library for Programmable Logic Controllers             | 2021 |
+| 3  | ORRIS                          | Countermeasure | Remote Non-Intrusive Malware Detection for PLCs based on Chain of Trust Rooted in Hardware | 2021 |
+| 4  | vBump                          |                |                                                                                            |      |
+| 5  | AttkFinder                     |                |                                                                                            |      |
+| 6  | DigitalTwin-SIEM-integration   |                |                                                                                            |      |
+| 7  | ICS Fingerprinting             |                |                                                                                            |      |
+| 8  | Constrained Concealment Attack |                |                                                                                            |      |
+| 9  | Shade                          |                |                                                                                            |      |
+| 10 | easy-rte                       |                |                                                                                            |      |
+| 11 |                                |                |                                                                                            |      |
+| 12 |                                |                |                                                                                            |      |
+| 13 |                                |                |                                                                                            |      |
+
 ## Help
 
 Any advise for common problems or issues.
