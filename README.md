@@ -2,9 +2,13 @@
 
 This is a TTP Matrix based on the MITRE ATT&CK for ICS Matrix which includes additional components from the Scientific literature
 
-## Description
+## What is the ICS<sup>2</sup> Matrix?
 
 An in-depth paragraph about your project and overview of use.
+
+## How do I use the ICS<sup>2</sup> Matrix?
+
+## How can I contribute to the ICS<sup>2</sup> Matrix?
 
 ## Getting Started
 
@@ -50,7 +54,7 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
