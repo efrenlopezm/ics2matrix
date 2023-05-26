@@ -9,6 +9,10 @@ This is a TTP Matrix based on the MITRE ATT&CK for ICS Matrix which includes add
 </div>
 
 
+# Content List
+
+[PLC Security Research Artifacts](#plc-security-research-artifacts)
+
 ## What is the ICS<sup>2</sup> Matrix?
 
 An in-depth paragraph about your project and overview of use.
