@@ -1,5 +1,11 @@
 # ICS<sup>2</sup> Matrix
 
+<div align="center">
+  <kbd>
+    <img src="img/logo.jpeg" />
+  </kbd>
+</div>
+
 This is a TTP Matrix based on the MITRE ATT&CK for ICS Matrix which includes additional components from the Scientific literature
 
 ## What is the ICS<sup>2</sup> Matrix?
