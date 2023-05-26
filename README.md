@@ -1,13 +1,26 @@
 # Security of Programmable Logic Controllers: ICS<sup>2</sup> Matrix
 
-This is a TTP Matrix based on the MITRE ATT&CK for ICS Matrix which includes additional components from the Scientific literature
-
 <div align="center">
   <kbd>
     <img src="img/logo.png" />
   </kbd>
 </div>
 
+This repository hosts the research artifacts released with the paper SoK: Security of Programmable Logic Controllers. It mainly hosts the ICS<sup>2</sup> Matrix however it also include other information relevant to the securty community like the list of PLC Security Research Artifacts.
+
+## Research Paper
+
+**SoK: Security of Progrmmable Logic Controllers** 
+
+If you use our work in a scientific publication, we would appreciate you cite us using this **BibTex** entry:
+``` tex
+@inproceedings{placeholder,
+ author    = {placeholder},
+ booktitle = {placeholder},
+ title     = {placeholder},
+ year      = {placeholder}
+}
+```
 
 ## Content List
 
