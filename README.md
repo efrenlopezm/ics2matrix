@@ -1,4 +1,4 @@
-# ICSx<sup>2</sup> Matrix
+# ICS<sup>2</sup> Matrix
 
 This is a TTP Matrix based on the MITRE ATT&CK for ICS Matrix which includes additional components from the Scientific literature
 
