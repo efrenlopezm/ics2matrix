@@ -7,11 +7,11 @@
 </div>
 <br />
 
-This repository hosts the research artifacts released with the paper **SoK: Security of Programmable Logic Controllers**. It mainly hosts the ICS<sup>2</sup> Matrix however it also includes other information relevant to the securty community like the list of PLC Security Research Artifacts.
+This repository hosts the research artifacts released with the paper **SoK: Security of Programmable Logic Controllers**. It mainly hosts the ICS<sup>2</sup> Matrix however it also includes other information relevant to the security community like the list of PLC Security Research Artifacts.
 
 ## Research Paper
 
-**SoK: Security of Progrmmable Logic Controllers** 
+**SoK: Security of Programmable Logic Controllers** 
 
 If you use our work in a scientific publication, please do cite us using this **BibTex** entry:
 ``` tex
