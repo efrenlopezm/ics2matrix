@@ -24,6 +24,9 @@ The new techniques introduced in our research are saved as multiple tabs in the 
 
 ## How can I contribute to the ICS<sup>2</sup> Matrix?
 
+We encourage the community to provide feedback to improve the matrix.
+If you wish to add or modify a technique please send a Pull Request using the provided template.
+
 ## Research Paper
 
 **SoK: Security of Programmable Logic Controllers** 
