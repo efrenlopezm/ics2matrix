@@ -25,10 +25,12 @@ If you use our work in a scientific publication, please do cite us using this **
 
 ## What is the ICS<sup>2</sup> Matrix?
 
-The ICS<sup>2</sup> Matrix is a threat taxonomy that  a taxonomy of threats against PLCs and
+The ICS<sup>2</sup> Matrix is a taxonomy of threats against PLCs and
 Industrial Control Systems (ICS). The taxonomy includes adversary tactics that describe “what” is the adversary’s goal and attack techniques which describe “how” the adversary can complete her goal. Additionally, it includes mitigations that prevent a technique from being successfully executed. The ICS2 Matrix builds upon the MITRE ATT&CK for ICS Matrix and the Hybrid ATT&CK Matrix. It also incorporates the scientific knowledge accumulated since 2007 of PLC security research by adding 6 new attack techniques and 5 new mitigation categories based on the literature reviewed in the SoK: Security of Programmable Logic Controllers paper.
 
 ## How do I use the ICS<sup>2</sup> Matrix?
+
+:open_file_folder: [Matrix Excel File](ics2matrix.xlsx)
 
 ## How can I contribute to the ICS<sup>2</sup> Matrix?
 
