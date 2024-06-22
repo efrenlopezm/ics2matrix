@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "Please cite this dataset using the metadata from 'preferred-citation'."
+authors:
+- family-names: "Lopez-Morales"
+  given-names: "Efren"
+  orcid:
+- family-names: "Rubio-Medrano"
+  given-names: "Carlos"
+  orcid:
+- family-names: "Planta"
+  given-names: "Ulysse"
+  orcid:
+- family-names: "Abbasi"
+  given-names: "Ali"
+  orcid:
+- family-names: "Cardenas"
+  given-names: "Alvaro"
+  orcid:
+title: "SoK: Security of Programmable Logic Controllers Dataset"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-08-14
+url: "https://github.com/efrenlopezm/plc-sok-dataset"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Lopez-Morales"
+    given-names: "Efren"
+    orcid:
+  - family-names: "Rubio-Medrano"
+    given-names: "Carlos"
+    orcid:
+  - family-names: "Planta"
+    given-names: "Ulysse"
+    orcid:
+  - family-names: "Abbasi"
+    given-names: "Ali"
+    orcid:
+  - family-names: "Cardenas"
+    given-names: "Alvaro"
+    orcid:
+  doi: "10.0000/00000"
+  journal: "Proceedings of the USENIX Security Symposium (USENIX Security)"
+  month: 8
+  start: 1 # First page number
+  end: 10 # Last page number
+  title: "SoK: Security of Programmable Logic Controllers"
+  issue: 1
+  volume: 1
+  year: 2024

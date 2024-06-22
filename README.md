@@ -1,4 +1,4 @@
-# SoK: Security of Programmable Logic Controllers: ICS<sup>2</sup> Matrix
+# ICS<sup>2</sup> Matrix
 
 <div align="center">
   <kbd>
