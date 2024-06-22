@@ -33,21 +33,17 @@ If you wish to add or modify a technique please send a Pull Request using the pr
 
 If you use our work in a scientific publication, please do cite us using this **BibTex** entry:
 ``` tex
-@inproceedings{placeholder,
- author    = {placeholder},
- booktitle = {placeholder},
- title     = {placeholder},
- year      = {placeholder}
+@inproceedings{lopez2024sok,
+  title={SoK: Security of Programmable Logic Controllers},
+  author={L{\'o}pez-Morales, Efr{\'e}n and Planta, Ulysse and Rubio-Medrano, Carlos and Abbasi, Ali and Cardenas, Alvaro},
+  booktitle={Proceedings of the 33rd USENIX Security Symposium},
+  year= {2024}
 }
 ```
 
-## Getting Started
-
-Coming soon!
-
 ## Help
 
-Coming soon!
+If you need help please open a new issue.
 
 ## License
 
