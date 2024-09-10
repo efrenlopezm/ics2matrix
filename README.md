@@ -33,17 +33,23 @@ If you wish to add or modify a technique please send a Pull Request using the pr
 
 If you use our work in a scientific publication, please do cite us using this **BibTex** entry:
 ``` tex
-@inproceedings{lopez2024sok,
-  title={SoK: Security of Programmable Logic Controllers},
-  author={L{\'o}pez-Morales, Efr{\'e}n and Planta, Ulysse and Rubio-Medrano, Carlos and Abbasi, Ali and Cardenas, Alvaro},
-  booktitle={Proceedings of the 33rd USENIX Security Symposium},
-  year= {2024}
+@inproceedings {lopez2024sok,
+author = {Efr{\'e}n L{\'o}pez-Morales and Ulysse Planta and Carlos Rubio-Medrano and Ali Abbasi and Alvaro A. Cardenas},
+title = {{SoK}: Security of Programmable Logic Controllers},
+booktitle = {33rd USENIX Security Symposium (USENIX Security 24)},
+year = {2024},
+isbn = {978-1-939133-44-1},
+address = {Philadelphia, PA},
+pages = {7103--7122},
+url = {https://www.usenix.org/conference/usenixsecurity24/presentation/lopez-morales},
+publisher = {USENIX Association},
+month = aug
 }
 ```
 
 ## Help
 
-If you need help please open a new issue.
+If you need help, please open a new issue.
 
 ## License
 
